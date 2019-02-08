@@ -1,0 +1,13 @@
+# Hidden
+.*
+!.clang-format
+!.gitignore
+
+# Project
+!/.vscode/
+!/.settings/
+!/.classpath
+!/.project
+
+# Build
+/build/
